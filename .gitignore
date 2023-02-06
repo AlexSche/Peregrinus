@@ -59,7 +59,6 @@ sysinfo.txt
 crashlytics-build.properties
 
 
-# Ignore Folders
-/[Aa]ssets/[Ff]irebase
+# Ignore Projektabgabe
 /[Pp]rojektabgabe
 
