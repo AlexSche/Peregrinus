@@ -1,0 +1,37 @@
+{
+  "client": [
+    {
+      "services": {
+        "appinvite_service": {
+          "status": 1
+        }, 
+        "analytics_service": {
+          "status": 0
+        }
+      }, 
+      "oauth_client": [
+        {
+          "client_id": "479867471227-k9o2vlf5b789cln3ei14ebnkk0mh7e9u.apps.googleusercontent.com"
+        }
+      ], 
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWEuILxurwE-9ogwYoV9CA8qOxPsGdp-A"
+        }
+      ], 
+      "client_info": {
+        "mobilesdk_app_id": "1:479867471227:ios:be573d66379a2228d4a9de", 
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.com.unity.template.mobile2D"
+        }
+      }
+    }
+  ], 
+  "configuration_version": "1", 
+  "project_info": {
+    "storage_bucket": "peregrinus-database.appspot.com", 
+    "project_id": "peregrinus-database", 
+    "firebase_url": "https://peregrinus-database-default-rtdb.europe-west1.firebasedatabase.app", 
+    "project_number": "479867471227"
+  }
+}
